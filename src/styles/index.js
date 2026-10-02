@@ -1,0 +1,5 @@
+import '@fontsource-variable/fraunces/opsz.css'
+import '@fontsource-variable/instrument-sans/wght.css'
+import './tokens.css'
+import './base.css'
+import './app.css'
