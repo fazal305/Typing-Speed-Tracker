@@ -2,7 +2,7 @@
 
 A typing speed test that measures your words per minute and accuracy live as you type. It runs entirely in the browser, with no sign-up, no backend and no tracking.
 
-**Live demo:** https://typing-speed-tracker.vercel.app
+**Live demo:** https://typing-speed-tracker-omega.vercel.app
 
 ![Speed Type mid-test, with live WPM and accuracy above the passage and a mistyped letter highlighted in red](docs/screenshots/typing.png)
 
@@ -76,7 +76,7 @@ privacy.html, 404.html    static pages built by Vite
 
 ## Privacy
 
-Nothing you type leaves your browser. There are no cookies, no analytics and no third-party requests. See the [privacy policy](https://typing-speed-tracker.vercel.app/privacy).
+Nothing you type leaves your browser. There are no cookies, no analytics and no third-party requests. See the [privacy policy](https://typing-speed-tracker-omega.vercel.app/privacy).
 
 ## Contributing
 
