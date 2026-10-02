@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://typing-speed-tracker.vercel.app/sitemap.xml
